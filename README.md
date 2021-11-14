@@ -15,5 +15,5 @@ Following are the instruction for run the project on local system:
   4. Run npm run dev command from terminal to launch the server.
   5. This will start the backend server at port 5000. Keep this terminal alive.
   6. Launch another terminal and navigate to the client directory with command `cd /path/to/college_placement_portal/client`.
-  7. Run npm install in the terminal in the server directory. This will install the required dependencies.
-  8. Run npm start command to launch a web portal in the browser at http://localhost:3000.
+  7. Run `npm install` in the terminal in the server directory. This will install the required dependencies.
+  8. Run `npm start` command to launch a web portal in the browser at http://localhost:3000.
